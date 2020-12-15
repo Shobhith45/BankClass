@@ -1,0 +1,6 @@
+enum class TypeOfAccount{
+    SAVINGS,CURRENT,HOMELOAN,VEHICLELOAN,PERSONALLOAN,FIXED,RECURRING
+}
+enum class TypeOfTransaction{
+    DEPOSIT,WITHDRAW
+}
